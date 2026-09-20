@@ -52,11 +52,12 @@ Base de conhecimento estruturada em 20 módulos para um agente financeiro educac
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marques-Lucas&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Lucas&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/Marques-Lucas?style=for-the-badge&logo=github&label=Seguidores&labelColor=161B22&color=1F6FEB" />
+  <img src="https://img.shields.io/github/stars/Marques-Lucas?style=for-the-badge&logo=github&label=Stars&labelColor=161B22&color=E3B341" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20IA-6DB33F?style=for-the-badge&labelColor=161B22" />
 </p>
 
 ---
